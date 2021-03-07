@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    padding: 15px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+    margin: 15px 4px;
+    padding: 15px;
+    border-radius: 7px;
+    background: #eee;  
+}
+
+#title{
+    font-weight: bold;
+    font-size: 270%;
+    opacity: 80%;
+}
+
+p{
+    opacity:85%;
+}
+
+#img-div{
+    background-color: white;
+    padding:10px;
+}
+
+img {
+    max-width:100%;
+    display: block;
+    margin: 0 auto;
+    height:auto;
+  }
+
+h3{
+    opacity:85%;
+    margin:45px;
+    text-align: center;
+}
+
+#tribute-info{
+    max-width: 590px;
+    margin: auto;
+    text-align: left;
+}
+
+li{
+    opacity: 85%;
+    margin:20px 0px;
+    line-height:24px;
+}
+
+.sentence{
+    padding-left:18px;
+    font-family: italic;
+    font-size:18px;
+    opacity:85%;
+    line-height:23px;
+}
